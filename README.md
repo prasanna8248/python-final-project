@@ -40,7 +40,7 @@ Uses data to learn the data can be any data type.
 
 4 Type(Supervised, unsupervised, reinforcement, semi-supervised learning)
 
-This is the file which consist of dataset and there are various differnt algorithms used for training of our model which are as follows:
+This is the file which consist of dataset and there are various different algorithms used for training of our model which are as follows:
 
 Naive bayes
 Support vector machine
